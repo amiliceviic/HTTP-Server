@@ -6,7 +6,7 @@
 
 # HTTP-SERVER
 
-<em>Powering Fast, Reliable Web Delivery Everywhere</em>
+<em>Simple multithreaded HTTP server in Java that listens for client requests, processes basic GET and HEAD methods, and serves static files over a TCP connection</em>
 
 <!-- BADGES -->
 <img src="https://img.shields.io/github/last-commit/amiliceviic/HTTP-Server?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
