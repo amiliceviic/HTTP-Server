@@ -1,6 +1,5 @@
 <div id="top">
 
-<!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
 
@@ -8,7 +7,6 @@
 
 <em>Simple multithreaded HTTP server in Java that listens for client requests, processes basic GET and HEAD methods, and serves static files over a TCP connection</em>
 
-<!-- BADGES -->
 <img src="https://img.shields.io/github/last-commit/amiliceviic/HTTP-Server?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 <img src="https://img.shields.io/github/languages/top/amiliceviic/HTTP-Server?style=flat&color=0080ff" alt="repo-top-language">
 <img src="https://img.shields.io/github/languages/count/amiliceviic/HTTP-Server?style=flat&color=0080ff" alt="repo-language-count">
